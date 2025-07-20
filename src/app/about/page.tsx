@@ -10,9 +10,9 @@ import { motion } from "framer-motion";
 import About from "@/components/About";
 
 export const metadata: Metadata = {
-  title: "About | John Doe",
+  title: "About | Harsh Kumar",
   description:
-    "John Doe is a developer, writer and speaker. He is a digital nomad and travels around the world while working remotely.",
+    "Passionate frontend developer who loves bringing ideas to life through code. I thrive on building cool, user-friendly projects that look great and work even better.",
 };
 
 export default function AboutPage() {

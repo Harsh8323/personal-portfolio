@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return {
       title: "Projects | Harsh ",
       description:
-        "John Doe is a developer, writer and speaker. He is a digital nomad and travels around the world while working remotely.",
+        "Passionate frontend developer who loves bringing ideas to life through code. I thrive on building cool, user-friendly projects that look great and work even better.",
     };
   }
 }
