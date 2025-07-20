@@ -86,8 +86,9 @@ export default function About() {
         </Paragraph>
 
         <Paragraph className=" mt-4">
-          On the front-end side, I've gained hands-on experience with HTML, CSS,
-          Tailwind CSS, and React.js. I'm also learning backend development
+          On the front-end side, I&apos;ve gained hands-on experience with HTML,
+          CSS, Tailwind CSS, and React.js. I&apos;m also learning backend
+          development
           using Node.js and Express.js, and databases like SQL and MongoDB.
         </Paragraph>
         <Paragraph className=" mt-4">
