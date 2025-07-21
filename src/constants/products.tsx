@@ -24,7 +24,7 @@ export const products = [
     thumbnail: swiftspendCover,
     images: [swiftspendCover, swiftspendexpense],
     stack: ["React.js", "Tailwindcss", "Node.js", "Express", "MongoDB"],
-    slug: "aceternity",
+    slug: "swiftspend",
     content: (
       <div>
         <p>
