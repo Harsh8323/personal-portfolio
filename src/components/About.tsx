@@ -88,8 +88,8 @@ export default function About() {
         <Paragraph className=" mt-4">
           On the front-end side, I&apos;ve gained hands-on experience with HTML,
           CSS, Tailwind CSS, and React.js. I&apos;m also learning backend
-          development
-          using Node.js and Express.js, and databases like SQL and MongoDB.
+          development using Node.js and Express.js, and databases like SQL and
+          MongoDB.
         </Paragraph>
         <Paragraph className=" mt-4">
           One of my main projects is SwiftSpend, a full-stack expense tracking
@@ -101,14 +101,15 @@ export default function About() {
           JWT authentication and robust CRUD operations to protect user data and
           ensure smooth, reliable tracking.
         </Paragraph>
-        <Paragraph className=" mt-4">
-          Another key project is GitHubIO, where I engineered an interactive
-          skeleton loading feature to enhance user experience and reduce
-          perceived load time. I optimized the GitHub API to dynamically
-          showcase user profiles, repositories, and follower statistics in
-          real-time. I also designed a fully responsive interface with dark and
-          light mode options, ensuring seamless adaptability across all screen
-          sizes and improving mobile usability
+        <Paragraph className=" mt-4"> 
+          Another key project is MediFlux, a scalable web app for managing
+          healthcare appointments and analytics. I developed a comprehensive
+          healthcare management system using React and Tailwind CSS that streamlines
+          appointment booking and patient management. The application features
+          role-based authentication, real-time dashboard analytics, and secure
+          session management with local storage integration. Built with a
+          component-driven architecture, it ensures scalability and optimal
+          performance for healthcare workflows.
         </Paragraph>
         <Paragraph className=" mt-4">
           I&apos;m always looking for new challenges and opportunities to grow

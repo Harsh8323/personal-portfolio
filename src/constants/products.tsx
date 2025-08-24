@@ -53,7 +53,7 @@ export const products = [
     href: "https://medi-flux.vercel.app/",
     title: "MediFlux",
     description:
-      "A web app for tracking and visualizing personal finances with reporting.",
+      "A web app for healthcare appointment management with analytics.",
     thumbnail: medifluxCover,
     images: [medifluxAdmin, medifluxPatient],
     stack: ["React.js", "Tailwindcss"],
@@ -61,9 +61,9 @@ export const products = [
     content: (
       <div>
         <p>
-          MediFlux is a scalable web app for managing healthcare
-          appointments and analytics. Using React and Tailwind CSS, it features
-          seamless appointment booking, role-based authentication, and dashboard
+          MediFlux is a scalable web app for managing healthcare appointments
+          and analytics. Using React and Tailwind CSS, it features seamless
+          appointment booking, role-based authentication, and dashboard
           insights. It includes dynamic form validation, protected routes, and
           local storage for secure session management, ensuring efficient
           healthcare workflow management.{" "}
