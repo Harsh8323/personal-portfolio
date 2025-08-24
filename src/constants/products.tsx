@@ -8,6 +8,9 @@ import sidefolioTailwindMasterKit from "public/images/sidefolio-tailwindmasterki
 import sidefolioTailwindMasterKit2 from "public/images/sidefolio-tailwindmasterkit-2.png";
 import swiftspendCover from "public/images/swiftspend-cover.png";
 import swiftspendexpense from "public/images/swiftspend-expense.png";
+import medifluxCover from "public/images/mediflux-cover.png";
+import medifluxAdmin from "public/images/mediflux-admin.png";
+import medifluxPatient from "public/images/mediflux-patient.png";
 import githubioCover from "public/images/githubio-cover.png";
 import githubioFollowers from "public/images/githubio-followers.png";
 import hooBankCover from "public/images/hoobank-cover.png";
@@ -33,6 +36,37 @@ export const products = [
           income and expenses with charts. You can also download Excel reports.
           It uses JWT authentication to keep your data safe, ensuring you can
           easily manage your money.{" "}
+        </p>
+        {/* <p>
+          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
+          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
+          sit aute fugiat incididunt nostrud consequat proident fugiat id.
+          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
+          reprehenderit. Cillum Lorem veniam eu magna exercitation.
+          Reprehenderit adipisicing minim et officia enim et veniam Lorem
+          excepteur velit adipisicing et Lorem magna.
+        </p>{" "} */}
+      </div>
+    ),
+  },
+  {
+    href: "https://medi-flux.vercel.app/",
+    title: "MediFlux",
+    description:
+      "A web app for tracking and visualizing personal finances with reporting.",
+    thumbnail: medifluxCover,
+    images: [medifluxAdmin, medifluxPatient],
+    stack: ["React.js", "Tailwindcss"],
+    slug: "mediflux",
+    content: (
+      <div>
+        <p>
+          MediFlux is a scalable web app for managing healthcare
+          appointments and analytics. Using React and Tailwind CSS, it features
+          seamless appointment booking, role-based authentication, and dashboard
+          insights. It includes dynamic form validation, protected routes, and
+          local storage for secure session management, ensuring efficient
+          healthcare workflow management.{" "}
         </p>
         {/* <p>
           Exercitation pariatur enim occaecat adipisicing nostrud adipisicing

@@ -37,7 +37,7 @@ export const Sidebar = () => {
                 onClick={() => {
                   // Replace this URL with your actual Google Drive resume link
                   const resumeUrl =
-                    "https://drive.google.com/file/d/1VTbthvsNFOGiGcYTdUGSxn7QcforZ7_b/view?usp=sharing";
+                    "https://drive.google.com/file/d/1Dcsw5fAUNo28KLXIZRQABWtZuLvpOjzH/view?usp=drive_link";
                   window.open(resumeUrl, "_blank");
                 }}
                 className="bg-slate-900 no-underline group cursor-pointer relative shadow-2xl shadow-zinc-900 rounded-full p-px text-xs font-semibold leading-6  text-white inline-block"
